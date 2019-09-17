@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Design like Apple apps
     description                           : Specificly designed for iPhones and iPads.
-    fontawesome_icon_name                 : tablet
+    fontawesome_icon_name                 : apple
 
   - title                                 : No Ads
     description                           : No annoying ads for you to see. Just use the app.
