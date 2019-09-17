@@ -2,7 +2,7 @@
 page_title                                : Tasks by theroyakash                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : com.royakash.software.To-Do--Minimalistic-Design-                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : com.royakash.software.To-Do--Minimalistic-Design-                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : No Ads
     description                           : No annoying ads for you to see. Just use the app.
-    fontawesome_icon_name                 : adversal
+    fontawesome_icon_name                 : ad
 
   - title                                 : Localized Data
     description                           : Your task data stays on your iPhone. What you add don't leaves your apple device.
