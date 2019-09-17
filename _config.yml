@@ -40,11 +40,11 @@ features                                  :
     
   - title                                 : Design like Apple apps
     description                           : Specificly designed for iPhones and iPads.
-    fontawesome_icon_name                 : apple
+    fontawesome_icon_name                 : tablet
 
   - title                                 : No Ads
     description                           : No annoying ads for you to see. Just use the app.
-    fontawesome_icon_name                 : ad
+    fontawesome_icon_name                 : buysellads
 
   - title                                 : Localized Data
     description                           : Your task data stays on your iPhone. What you add don't leaves your apple device.
