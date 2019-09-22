@@ -33,7 +33,11 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
+  
+  - title                                 : Dark Mode
+    description                           : System wide beautiful hand-crafted darkmode for iOS and iPadOS 13 or later
+    fontawesome_icon_name                 : adjust
+    
   - title                                 : Free Forever
     description                           : All free content, and will remain forever. Download today from App Store.
     fontawesome_icon_name                 : dollar-sign
@@ -49,10 +53,7 @@ features                                  :
   - title                                 : Localized Data
     description                           : Your task data stays on your iPhone. What you add don't leaves your apple device.
     fontawesome_icon_name                 : lock
-  
-  - title                                 : Dark Mode
-    description                           : System wide beautiful hand-crafted darkmode for iOS and iPadOS 13 or later
-    fontawesome_icon_name                 : adjust
+
 #
 #  - title                                 : # New Feature Title
 #    description                           : # New Feature Description
@@ -69,7 +70,7 @@ cover_image                               : assets/headerimage.jpg              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
