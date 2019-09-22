@@ -49,6 +49,10 @@ features                                  :
   - title                                 : Localized Data
     description                           : Your task data stays on your iPhone. What you add don't leaves your apple device.
     fontawesome_icon_name                 : lock
+  
+  - title                                 : Dark Mode
+    description                           : System wide beautiful hand-crafted darkmode for iOS and iPadOS 13 or later
+    fontawesome_icon_name                 : adjust
 #
 #  - title                                 : # New Feature Title
 #    description                           : # New Feature Description
@@ -85,9 +89,6 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
 
 
 
