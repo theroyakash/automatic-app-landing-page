@@ -5,6 +5,18 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 5.0**
+- Updated to work with 3D Touch and/or Haptic Touch to add tasks quickly,
+- Localized data storage, what you write on your iPhone doesn't leave your iPhone
+- Haptic Feedback when deleting a task
+- Improved User Interface and font-scaling,
+- iOS 13 System-wide darkMode Support.
+- State of the art Machine Learning model to predict your task. Work still in beta
+
+Take control of your task management and install the Tasks by theroyakash mobile app. Start easily managing your to-do list on the go with the Tasks planner app by theroyakash.
+
+<br>
+
 # **Version 4.1.1**
 - Updated to work with Swift 5.1,
 - Bugs fixed, where created tasks may not save,
@@ -24,7 +36,6 @@ Get more done with the Tasks iOS app. Manage and edit your tasks, at anytime.
 - Really intuitive design from the Human Guidelines of Apple's Mobile Interface Design.
 - iPad Design optimizations.
 - iPad Split view was rewritten and is now more reliable than ever.
-- It really resembles to a Apple Designed app.
 - Improved font scaling
 - Improved iPad bluetooth keyboard support
 - App loads much faster on old iPads
